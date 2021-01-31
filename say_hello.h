@@ -7,6 +7,6 @@
 using namespace std;
 
 std::string hello() {
-    return "Hello, What!";
+    return "Hello, World!";
 }
 
